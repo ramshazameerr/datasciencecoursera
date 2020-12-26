@@ -1,0 +1,12 @@
+---
+output:
+  word_document: default
+  html_document: default
+---
+
+title: "HelloWorld.md"  
+output: word_document
+
+
+## This is a markdown file
+
